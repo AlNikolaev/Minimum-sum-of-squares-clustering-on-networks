@@ -4,7 +4,7 @@ main.cpp is the source code of the algorithm which was proposed in Nikolaev, A.,
 
 # Execution
 
-After creation of an executor please run the program with the following arguments:
+After creation of an executor run it with the following five arguments:
 1. The full path to the input file. The format  
 2. Defined number of clusters
 3. Strategy for finding initial solution ().
