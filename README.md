@@ -7,9 +7,9 @@ main.cpp is the source code of the algorithm which was proposed in Nikolaev, A.,
 After creation of an executor run it with the following five arguments:
 1. The full path to the input file. The information about the format of input file can be found here: http://people.brunel.ac.uk/~mastjjb/jeb/orlib/pmedinfo.html   
 2. The time limit (in seconds).
-3. Strategy for generating of an initial solution. The value of the 3 argument should be 's', 'v', 'e', 'f', 'r'.
-4. Strategy for generating new prototypes during working of shaking procedure. The value of the 4 argument should be 'v', 'e', 'f', 'r'. 
-5. Strategy for removing k-means degeneracy. The value of the 5 argument should be 'm', 'v', 'e', 'f', 'r'. 
+3. Strategy for generating of an initial solution. The value of argument 3 should be 's', 'v', 'e', 'f', 'r'.
+4. Strategy for generating new prototypes during working of shaking procedure. The value of argument 4 should be 'v', 'e', 'f', 'r'. 
+5. Strategy for removing k-means degeneracy. The value of argument 5 should be 'm', 'v', 'e', 'f', 'r'. 
 
 **According to the computational results the best 3-5 arguments are: v f m**
 
